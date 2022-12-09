@@ -200,6 +200,7 @@ aside svg { height: 4.5rem; }
 }
 
 #bookmarks a {
+    text-align: center;
     align-items: center;
     border-radius: 0.25rem;
     display: flex;
